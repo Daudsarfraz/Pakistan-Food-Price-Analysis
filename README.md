@@ -7,7 +7,7 @@ The primary goal of this data science project is to analyze and understand the t
 The dataset that we used is from kaggle. 
 https://www.kaggle.com/datasets/amaanfaheem/pakistan-food-prices-2022
 The dataset contains food prices data for Pakistan, sourced from the World Food Programmed Price Database.
-Dataset description:
+# Dataset description:
 Data Set is contains on 9723 rows × 14 columns
 
 
@@ -19,8 +19,5 @@ Data Set is contains on 9723 rows × 14 columns
 - SVM
 
 
-Different Models Accuracy
-
-These are some Data Visualization:
-
-Here are some Data Analysis based on Different PaComparisions.
+# Different Models Accuracy
+![Image](https://github.com/Daudsarfraz/Pakistan-Food-Price-Analysis/blob/main/img/Accuracy.png)
