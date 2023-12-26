@@ -1,4 +1,4 @@
-## Project Name: Pakistan Food Prices Analysis
+## Pakistan Food Prices Analysis
 
 ### Project Objective:
 The primary goal of this data science project is to analyze and understand the trends, patterns, and factors influencing food prices in Pakistan. By leveraging data, the project aims to provide valuable insights for policymakers, researchers, and the general public to make informed decisions about food consumption, pricing strategies, and potential interventions.
