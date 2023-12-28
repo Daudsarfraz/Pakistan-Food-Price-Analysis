@@ -1,5 +1,5 @@
 ## Pakistan Food Prices Analysis
-![Image](https://github.com/Daudsarfraz/Pakistan-Food-Price-Analysis/blob/main/img/Accuracy.png)
+![Image](https://github.com/Daudsarfraz/Pakistan-Food-Price-Analysis/blob/main/images.png)
 
 
 ### Project Objective:
